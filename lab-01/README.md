@@ -1,6 +1,6 @@
 # Lab 1 – Node.js and Express Server
 
-> **Deployment URL:** *(See Phase 10 – Deployment section below)*
+> **Deployment URL:** *((https://backend-development-fundamentals-f75a.onrender.com))*
 
 ---
 
